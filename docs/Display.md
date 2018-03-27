@@ -35,7 +35,7 @@ Links to displays:
  * [witespyquad.gostorego.com](http://witespyquad.gostorego.com/accessories/readytofly-1-oled-128x64-pid-tuning-display-i2c.html) ReadyToFlyQuads 1" OLED Display
  * [multiwiicopter.com](http://www.multiwiicopter.com/products/1-oled) PARIS 1" OLED 128x64 PID tuning screen AIR
 
-The banggood.com display is the cheapest at the time fo writing and will correctly send I2C ACK signals.
+The banggood.com display is the cheapest at the time of writing and will correctly send I2C ACK signals.
 
 #### Crius CO-16
 
